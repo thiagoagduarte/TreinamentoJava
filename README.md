@@ -1,4 +1,4 @@
 # TreinamentoJava
 Aulas de Java Generation
 
-Exercícios da primeira lista em /bin/Exercícios/
+Exercícios da primeira lista em /src/Exercícios/
